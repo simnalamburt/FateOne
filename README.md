@@ -128,7 +128,7 @@ FateOne은 제가 고등학교 2학년때 친구들과 같이 직접 쓰려고 �
 
 GPLv3 License
 
-[version]: https://img.shields.io/badge/version-1.4.3-blue.svg
+[version]: https://img.shields.io/badge/version-1.4.4-blue.svg
 [Fate/Another]: http://cafe.naver.com/ufw.cafe?iframe_url=/ArticleList.nhn%3Fsearch.menuid=22
 [리그 오브 레전드]: https://kr.leagueoflegends.com/
 [이슈트래커]: https://github.com/simnalamburt/FateOne/issues
