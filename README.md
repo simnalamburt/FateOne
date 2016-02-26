@@ -6,6 +6,7 @@ FateOne ![version]
 프로그램입니다. 카오스원 없이 [Fate/Another]를 더 편하게 즐기세요. 원클릭 령주,
 스마트캐스팅, 빠른 상점접근 등의 기능을 직접 써보세요!
 
+### [다운로드 *Download*][download]
 ![](FateOne/Images/Keyboard.png)
 
 ### 사용법
@@ -129,6 +130,8 @@ FateOne은 제가 고등학교 2학년때 친구들과 같이 직접 쓰려고 �
 GPLv3 License
 
 [version]: https://img.shields.io/badge/version-1.4.4-blue.svg
+[download]: https://github.com/simnalamburt/FateOne/releases/download/v1.4.4/FateOne.exe
+
 [Fate/Another]: http://cafe.naver.com/ufw.cafe?iframe_url=/ArticleList.nhn%3Fsearch.menuid=22
 [리그 오브 레전드]: https://kr.leagueoflegends.com/
 [이슈트래커]: https://github.com/simnalamburt/FateOne/issues
