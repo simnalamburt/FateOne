@@ -6,8 +6,10 @@ FateOne ![version]
 프로그램입니다. 카오스원 없이 [Fate/Another]를 더 편하게 즐기세요. 원클릭 령주,
 스마트캐스팅, 빠른 상점접근 등의 기능을 직접 써보세요!
 
-### [다운로드 *Download*][download]
 ![](FateOne/Images/Keyboard.png)
+
+### [다운로드 *Download*][download]
+> Windows XP, Vista를 쓰신다면 [이 링크][.net]를 눌러 [.NET Framework 4.0][.net]을 설치하세요
 
 ### 사용법
 1.  워크래프트와 FateOne을 각각 켭니다.
@@ -131,6 +133,7 @@ GPLv3 License
 
 [version]: https://img.shields.io/badge/version-1.4.4-blue.svg
 [download]: https://github.com/simnalamburt/FateOne/releases/download/v1.4.4/FateOne.exe
+[.net]: https://download.microsoft.com/download/7/B/6/7B629E05-399A-4A92-B5BC-484C74B5124B/dotNetFx40_Client_setup.exe
 
 [Fate/Another]: http://cafe.naver.com/ufw.cafe?iframe_url=/ArticleList.nhn%3Fsearch.menuid=22
 [리그 오브 레전드]: https://kr.leagueoflegends.com/
