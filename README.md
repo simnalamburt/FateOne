@@ -1,6 +1,8 @@
 FateOne ![version]
 ========
-> 2012.8.1 ~ 9.1, 2013.1.28 ~ 2.3
+> 2012.8.1 ~ 9.1 &nbsp; &nbsp;
+> 2013.1.28 ~ 2.3 &nbsp; &nbsp;
+> 2016.9.3 ~ *now*
 
 워크래프트 3 유즈맵 [Fate/Another]를 편하게 플레이할 수 있게 해주는 보조
 프로그램입니다. 카오스원 없이 [Fate/Another]를 더 편하게 즐기세요. 원클릭 령주,
@@ -9,7 +11,8 @@ FateOne ![version]
 ![](FateOne/Images/Keyboard.png)
 
 ### [다운로드 *Download*][download]
-> Windows XP, Vista를 쓰신다면 [이 링크][.net]를 눌러 [.NET Framework 4.0][.net]을 설치하세요
+> Windows XP, Vista를 쓰신다면 [이 링크][.net]를 눌러
+> [.NET Framework 4.0][.net]을 먼저 설치하셔야 합니다.
 
 ### 사용법
 1.  워크래프트와 FateOne을 각각 켭니다.
@@ -28,7 +31,7 @@ G스킬을 쓰려면 <kbd>V</kbd>키를 쓰셔야합니다.
 
 기능
 --------
-단축키는 [리그 오브 레전드]에 익숙하신분들이 바로 쓸 수 있도록 골랐습니다.
+단축키는 [리그 오브 레전드]나 [히어로즈 오브 더 스톰]에 익숙하신분들이 바로 쓸 수 있도록 골랐습니다.
 
 -   **령주** ―
     <kbd>1</kbd><kbd>2</kbd><kbd>3</kbd><kbd>4</kbd><kbd>5</kbd><kbd>6</kbd>
@@ -120,10 +123,8 @@ FateOne은 제가 고등학교 2학년때 친구들과 같이 직접 쓰려고 �
 아닙니다.
 
 #### 이 기능도 넣어주세요
-[이슈트래커]에 원하시는 기능을 써주시면 검토하겠습니다. 정 GitHub 계정을 만들기
-싫으시다면 메일을 보내주세요. 하지만 메일은 그닥 자주 확인하진 않습니다.
-
-*simnalamburt@gmail.com*
+[이슈트래커]에 원하시는 기능을 쓰시거나, <simnalamburt@gmail.com>로 메일을
+보내주세요.
 
 <br>
 
@@ -137,4 +138,5 @@ GPLv3 License
 
 [Fate/Another]: http://cafe.naver.com/ufw.cafe?iframe_url=/ArticleList.nhn%3Fsearch.menuid=22
 [리그 오브 레전드]: https://kr.leagueoflegends.com/
+[히어로즈 오브 더 스톰]: http://kr.battle.net/heroes/ko/
 [이슈트래커]: https://github.com/simnalamburt/FateOne/issues
