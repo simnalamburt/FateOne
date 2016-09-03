@@ -1,4 +1,20 @@
-﻿using System;
+﻿// FateOne, The alternative of ChaosOne just for Fate/Another
+// Copyright (C) 2012-2016  Hyeon Kim
+//
+// This program is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+//
+// This program is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+using System;
 using System.Threading;
 using System.Runtime.InteropServices;
 using System.Windows;
@@ -25,7 +41,7 @@ namespace FateOne
         const int LLKHF_INJECTED = 0x10;
         #endregion
 
-        
+
 
         // public static
         #region ProcessInput, ProcessKey, ProcessMouse 정적 메서드 정의
@@ -217,7 +233,7 @@ namespace FateOne
         }
         #endregion
     }
-    
+
     /// <summary>
     /// 발생시킬 입력에 대한 명세입니다.
     /// </summary>
@@ -388,7 +404,7 @@ namespace FateOne
     /// 입력 이벤트의 가능한 상태를 지정합니다.
     /// </summary>
     public enum InputState { Up, Down }
-    
+
     /// <summary>
     /// 저수준 키 이벤트에 대한 데이터를 제공합니다.
     /// </summary>
@@ -398,7 +414,7 @@ namespace FateOne
         /// 이벤트가 발생한 System.Windows.Input.Key 입니다.
         /// </summary>
         public readonly Key Key;
-        
+
         /// <summary>
         /// 해당 키 이벤트가 처리되었는지 처리되지 않았는지 가져오거나, 설정합니다.
         /// 한번 true로 설정된 Handled 속성은 false로 설정될 수 없습니다.

@@ -130,7 +130,7 @@ FateOne은 제가 고등학교 2학년때 친구들과 같이 직접 쓰려고 �
 
 --------
 
-GPLv3 License
+[GPLv3 License](LICENSE)
 
 [version]: https://img.shields.io/badge/version-1.4.4-blue.svg
 [download]: https://github.com/simnalamburt/FateOne/releases/download/v1.4.4/FateOne.exe
