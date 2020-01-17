@@ -8,11 +8,8 @@ FateOne ![version]
 프로그램입니다. 카오스원 없이 [Fate/Another]를 더 편하게 즐기세요. 원클릭 령주,
 스마트캐스팅, 빠른 상점접근 등의 기능을 직접 써보세요!
 
-![](FateOne/Images/Keyboard.png)
-
 ### [다운로드 *Download*][download]
-> Windows XP, Vista를 쓰신다면 [이 링크][.net]를 눌러
-> [.NET Framework 4.0][.net]을 먼저 설치하셔야 합니다.
+![](FateOne/Images/Keyboard.png)
 
 ### 사용법
 1.  워크래프트와 FateOne을 각각 켭니다.
